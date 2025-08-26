@@ -15,8 +15,8 @@
 - 🎯 **Career Goal:** To build a career as a **Data Analyst**, leveraging data to support decision-making.  
 - 🛠️ Skilled in **SQL, Python, Excel, Power BI** with hands-on projects in **data cleaning, visualization, and reporting**.  
 - 📈 Passionate about **analyzing trends, creating dashboards, and uncovering business insights**.  
-- 🤝 Open to **internships / full-time opportunities** in Data Analytics and Business Intelligence.  
-- 📬 Reach me at **sakshilokulwar@gmail.com**  
+- 🌟 Portfolio: [Visit My Portfolio](https://sakshilokulwar.github.io/Portfolio/)
+- 📬 Reach me at **sakshilokulwar@gmail.com**
 
 ---
 
