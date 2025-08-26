@@ -1,69 +1,80 @@
-<!-- Header Banner (Data Analytics themed, right-sized for GitHub) -->
+<!-- Professional Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1400&auto=format&fit=crop" 
-       alt="Data analytics dashboard banner"
+  <img src="https://img.freepik.com/premium-photo/business-analytics-data-analysis-visualization-dashboard-with-charts-graphs-big-data-analytics-technology-concept_116317-5721.jpg?w=1200" 
+       alt="Data Analyst Banner" 
        style="max-width: 100%; border-radius: 12px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sakshi Lokulwar</h1>
-<h3 align="center">Aspiring Data Analyst | Skilled in SQL, Python, Excel, and Power BI</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Turning Data into Insights</h3>
 
-<!-- Right-side GIF (charts/analytics themed, smaller size) -->
-<img align="right" alt="Data analysis animation" width="360" 
-     src="https://media.giphy.com/media/SvFocn0wNMx0IVGvjS/giphy.gif" />
+---
 
+### 💡 About Me
+- 🎯 **Career Goal:** To build a career as a **Data Analyst**, leveraging data to support decision-making.  
+- 🛠️ Skilled in **SQL, Python, Excel, Power BI** with hands-on projects in **data cleaning, visualization, and reporting**.  
+- 📈 Passionate about **analyzing trends, creating dashboards, and uncovering business insights**.  
+- 🤝 Open to **internships / full-time opportunities** in Data Analytics and Business Intelligence.  
+- 📬 Reach me at **sakshilokulwar@gmail.com**  
+
+---
+
+### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sakshilokulwar&label=Profile%20views&color=0e75b6&style=flat" alt="sakshilokulwar" />
-</p>
-
-- 🌱 I’m currently learning **Advanced SQL and Power BI**  
-- 📊 Interested in **Data Analysis, Business Intelligence, and Visualization**  
-- 📫 How to reach me **sakshilokulwar@gmail.com**  
-- ⚡ Fun fact **I enjoy turning raw data into meaningful insights 📈**  
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/> 
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="80" height="40"/> 
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
   </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="80" height="40"/> 
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="80" height="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshilokulwar&show_icons=true&locale=en" alt="sakshilokulwar" />
-</p>
+### 📂 Featured Projects
+Here are some of my projects that reflect my **Data Analyst journey**:
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshilokulwar&" alt="sakshilokulwar" />
-</p>
-
+- 🔹 **[HR-Analytics-KPI-Dashboard](https://github.com/SakshiLokulwar/HR-Analytics-KPI-Dashboard)** 
+- 🔹 **[Mobile-Sales-Dashboard](https://github.com/SakshiLokulwar/Mobile-Sales-Dashboard)**   
+- 🔹 **[Revenue-Insights-in-Hospitality-Domain](https://github.com/SakshiLokulwar/Revenue-Insights-in-Hospitality-Domain)** 
+- 🔹 **[Coffee-Shop-Sales-Dashboard](https://github.com/SakshiLokulwar/Coffee-Shop-Sales-Dashboard)**
+- 🔹 **[Trader_Sentiment_Analysis](https://github.com/SakshiLokulwar/Trader_Sentiment_Analysis)**
+- 🔹 **[Customer-Churn-Analysis-using-Power-Bi](https://github.com/SakshiLokulwar/Customer-Churn-Analysis-using-Power-Bi)**
 ---
 
-<h3 align="center">📌 Let's Connect!</h3>
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-lokulwar-82ba7a255/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshilokulwar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshilokulwar&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-lokulwar-82ba7a255/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="mailto:sakshilokulwar@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
+  <a href="mailto:sakshilokulwar@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
   </a>
 </p>
+
+---
+
+✨ *“Data is the new oil, and I aspire to refine it into valuable insights.”*  
