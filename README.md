@@ -1,8 +1,9 @@
 <!-- Professional Banner -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/business-analytics-data-analysis-visualization-dashboard-with-charts-graphs-big-data-analytics-technology-concept_116317-5721.jpg?w=1200" 
+  <img src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/0/3/a/03a0554ae1_50175403_data-analyst-data-scientist-formation-metier.jpg" 
        alt="Data Analyst Banner" 
-       style="max-width: 100%; border-radius: 12px;" />
+       width="100%" 
+       height="250px"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sakshi Lokulwar</h1>
@@ -46,22 +47,23 @@
 ### 📂 Featured Projects
 Here are some of my projects that reflect my **Data Analyst journey**:
 
-- 🔹 **[HR-Analytics-KPI-Dashboard](https://github.com/SakshiLokulwar/HR-Analytics-KPI-Dashboard)** 
-- 🔹 **[Mobile-Sales-Dashboard](https://github.com/SakshiLokulwar/Mobile-Sales-Dashboard)**   
-- 🔹 **[Revenue-Insights-in-Hospitality-Domain](https://github.com/SakshiLokulwar/Revenue-Insights-in-Hospitality-Domain)** 
-- 🔹 **[Coffee-Shop-Sales-Dashboard](https://github.com/SakshiLokulwar/Coffee-Shop-Sales-Dashboard)**
-- 🔹 **[Trader_Sentiment_Analysis](https://github.com/SakshiLokulwar/Trader_Sentiment_Analysis)**
-- 🔹 **[Customer-Churn-Analysis-using-Power-Bi](https://github.com/SakshiLokulwar/Customer-Churn-Analysis-using-Power-Bi)**
----
+- 🔹 **[HR Analytics KPI Dashboard](https://github.com/SakshiLokulwar/HR-Analytics-KPI-Dashboard)**  
+   *Analyzed employee data and built a Power BI dashboard to track attrition, employee satisfaction, and performance KPIs.*  
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshilokulwar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+- 🔹 **[Mobile Sales Dashboard](https://github.com/SakshiLokulwar/Mobile-Sales-Dashboard)**  
+   *Created an interactive sales dashboard to analyze revenue trends, product performance, and regional sales insights.*  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshilokulwar&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+- 🔹 **[Revenue Insights in Hospitality Domain](https://github.com/SakshiLokulwar/Revenue-Insights-in-Hospitality-Domain)**  
+   *Developed BI reports to evaluate revenue streams, occupancy rates, and market segment performance for hotels.*  
+
+- 🔹 **[Coffee Shop Sales Dashboard](https://github.com/SakshiLokulwar/Coffee-Shop-Sales-Dashboard)**  
+   *Built a dashboard to monitor daily sales, peak business hours, and product-wise performance for decision-making.*  
+
+- 🔹 **[Trader Sentiment Analysis](https://github.com/SakshiLokulwar/Trader_Sentiment_Analysis)**  
+   *Performed text analysis on traders' opinions using Python (NLTK & Pandas) to classify sentiment and trends.*  
+
+- 🔹 **[Customer Churn Analysis using Power BI](https://github.com/SakshiLokulwar/Customer-Churn-Analysis-using-Power-Bi)**  
+   *Designed a churn prediction dashboard highlighting customer retention metrics, churn probability, and service usage patterns.*  
 
 ---
 
